@@ -1,0 +1,1 @@
+Here we have trained two object detetion models called yolov5 and yolov7 model to detect brain tumor object. After getting those bounding boxes inputs we have given those inputs to the MedSAM model and obtained the segmentation masks.
